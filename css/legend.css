@@ -1,0 +1,53 @@
+body{
+font-family: 'lucida grande' , tahoma, verdana, arian, sans-serif;
+background-color:white;
+}
+
+#container{
+width:100px;
+margin: 0 auto;
+padding:1px;
+background-color:yellow;
+}
+
+#navigation{
+height:40px;
+width:1358px;
+border:0px solid #e3e3e3e3;
+margin-top:5px;
+background-color:black;
+}
+
+ul#navmenu {
+list-style-type:none;
+font-size:20px;
+}
+ul#navmenu li{
+width:170px;
+text-align:center;
+float:left;
+margin:6px;
+}
+ul#navmenu a{
+text-decoration:none;
+color:white;
+display: block;
+width:200px;
+hight:50px;
+}
+#content_area{
+float:left
+width:100px;
+margin: 0 auto;
+padding:1px;
+
+}
+
+
+
+
+
+
+
+
+
